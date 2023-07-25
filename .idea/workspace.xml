@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e86086bf-f005-4454-b6aa-5ea53b8772c1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/belajar-java-collection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/BinarySearchApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/CollectionApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/CollectionClassApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/CollectionDefaultMethodApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/DequeApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/EntryApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/EnumMapApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/EnumSetApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/HashMapApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/HashTableApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/IdentityHashMapApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/ImmutableApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/ImmutableMapApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/ImmutableSetApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/IterableApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/LinkedHashMapApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/ListApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/MapDefaultMethodApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/MutableApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/NavigableMapApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/NavigableSetApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/QueueApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/SetApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/SingleQueueApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/SortedMapApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/SortedSetApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/SpliteratorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/StackApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/ToArrayApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/VectorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/WeakHashMapApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/collection/SingleQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/PersonComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/kasus/DequeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/kasus/ListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/kasus/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/kasus/QueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/kasus/SetExample.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/jdk-20.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="2SbABAudUWFPONLSGPaENdEecL6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.android.tools.idea.logcat.settings.LogcatApplicationSettingsConfigurableProvider&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.MapExample">
+    <configuration name="DequeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.kasus.DequeExample" />
+      <module name="belajar-java-collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmer.zaman.now.kasus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.kasus.ListExample" />
+      <module name="belajar-java-collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmer.zaman.now.kasus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.kasus.MapExample" />
+      <module name="belajar-java-collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmer.zaman.now.kasus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.kasus.QueueExample" />
+      <module name="belajar-java-collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmer.zaman.now.kasus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.kasus.SetExample" />
+      <module name="belajar-java-collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmer.zaman.now.kasus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MapExample" />
+        <item itemvalue="Application.DequeExample" />
+        <item itemvalue="Application.QueueExample" />
+        <item itemvalue="Application.SetExample" />
+        <item itemvalue="Application.ListExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e86086bf-f005-4454-b6aa-5ea53b8772c1" name="Changes" comment="" />
+      <created>1689404769084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689404769084</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/programmer/zaman/now/IterableApp.java</url>
+          <line>3</line>
+          <properties class="IterableApp">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/programmer/zaman/now/ImmutableApp.java</url>
+          <line>7</line>
+          <properties class="programmer.zaman.now.ImmutableApp" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/programmer/zaman/now/EnumSetApp.java</url>
+          <line>10</line>
+          <properties class="programmer.zaman.now.EnumSetApp" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/programmer/zaman/now/SortedSetApp.java</url>
+          <line>11</line>
+          <properties class="programmer.zaman.now.SortedSetApp" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/programmer/zaman/now/CollectionApp.java</url>
+          <line>8</line>
+          <properties class="programmer.zaman.now.CollectionApp" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/programmer/zaman/now/NavigableSetApp.java</url>
+          <line>8</line>
+          <properties class="programmer.zaman.now.NavigableSetApp" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/programmer/zaman/now/QueueApp.java</url>
+          <line>7</line>
+          <properties class="programmer.zaman.now.QueueApp" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/programmer/zaman/now/IdentityHashMapApp.java</url>
+          <line>6</line>
+          <properties class="programmer.zaman.now.IdentityHashMapApp" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Library/Java/JavaVirtualMachines/jdk-20.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Map.java</url>
+          <line>160</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Library/Java/JavaVirtualMachines/jdk-20.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/LinkedHashMap.java</url>
+          <line>179</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Library/Java/JavaVirtualMachines/jdk-20.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Collections.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programmer/zaman/now/CollectionClassApp.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
