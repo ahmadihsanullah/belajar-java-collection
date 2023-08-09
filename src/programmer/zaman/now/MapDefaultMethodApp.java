@@ -14,29 +14,14 @@ public class MapDefaultMethodApp {
 
 
         //perulangan menggunak forEach bukan entrie untuk mendapatkan key dan valuenya
-        map.forEach(new BiConsumer<String, String>() {
-            @Override
-            public void accept(String key, String value) {
-                System.out.println(key + " = " + value);
-            }
-        });
+        map.forEach((key, value) -> System.out.println(key + " = " + value));
 
         map.replace("ruu", "bar", "bro");
-        map.forEach(new BiConsumer<String, String>() {
-            @Override
-            public void accept(String key, String value) {
-                System.out.println(key + " = " + value);
-            }
-        });
+        map.forEach((key, value) -> System.out.println(key + " = " + value));
 
         System.out.println(map.remove("ruu","bro"));
 
-        map.forEach(new BiConsumer<String, String>() {
-            @Override
-            public void accept(String key, String value) {
-                System.out.println(key + " = " + value);
-            }
-        });
+        map.forEach((key, value) -> System.out.println(key + " = " + value));
 
     }
 }

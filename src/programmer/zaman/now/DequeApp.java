@@ -2,6 +2,7 @@ package programmer.zaman.now;
 
 import java.util.Deque;
 import java.util.LinkedList;
+import java.util.Queue;
 
 public class DequeApp {
     public static void main(String[] args) {
@@ -17,14 +18,14 @@ public class DequeApp {
         System.out.println(stack.pollLast());
 
         //antrian
-        Deque<String> queue = new LinkedList<>();
-        queue.offerLast("Ahmad");
-        queue.offerLast("Ihsanullah");
-        queue.offerLast("Rabbani");
+        Queue<String> queue = new LinkedList<>();
+        queue.offer("Ahmad");
+        queue.offer("Ihsanullah");
+        queue.offer("Rabbani");
 
-        System.out.println(queue.pollFirst());
-        System.out.println(queue.pollFirst());
-        System.out.println(queue.pollFirst());
+        System.out.println(queue.poll());
+        System.out.println(queue.poll());
+        System.out.println(queue.poll());
 
     }
 }

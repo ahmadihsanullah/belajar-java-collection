@@ -18,7 +18,7 @@ public class HashMapApp {
         System.out.println(map.get("name.last"));
 
         Set<Map.Entry<String,String>> entries =map.entrySet();
-
+        System.out.println(map.containsKey("name.last"));
         for(var entry : entries){
             System.out.println(entry.getKey() + " = " + entry.getValue());
         }

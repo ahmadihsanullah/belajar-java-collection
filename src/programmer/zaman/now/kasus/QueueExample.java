@@ -13,7 +13,7 @@ public class QueueExample {
             System.out.println("Masukkan nama pelanggan (atau 'selesai' untuk keluar):");
             String customerName = scanner.nextLine();
 
-            if (customerName.equals("selesai") ) {
+            if (customerName.equalsIgnoreCase("selesai") ) {
                 break;
             }
 

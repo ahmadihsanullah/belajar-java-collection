@@ -12,6 +12,10 @@ public class NavigableSetApp {
         
         //reverse
         NavigableSet<String> reverse = names.descendingSet();
+        for (var name : reverse) {
+//            System.out.println(name);
+        }
+
 
         //bounded to ahmad-Budi
         NavigableSet<String> budi = names.headSet("Budi",true);

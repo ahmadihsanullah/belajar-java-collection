@@ -15,15 +15,19 @@ public class NavigableMapApp {
 //            System.out.println(name);
         }
 
-        System.out.println(navigableMap.lowerKey("eko"));
-        System.out.println(navigableMap.higherKey("eko"));
+        System.out.println(navigableMap.lowerKey("eko")); //yang dibawah eko
+        System.out.println(navigableMap.higherKey("eko")); //yang diatas eko
 
 
         //descending navigable map
         NavigableMap<String, String> navDescendingMap = navigableMap.descendingMap();
         for(var name: navDescendingMap.keySet()){
-//            System.out.println(name);
+            System.out.println(name);
         }
+
+        navigableMap.forEach((s, s2) -> {
+            System.out.println(s + " : " + s2);
+        });
 
     }
 }

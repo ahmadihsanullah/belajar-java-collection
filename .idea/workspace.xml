@@ -5,52 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e86086bf-f005-4454-b6aa-5ea53b8772c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/belajar-java-collection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/BinarySearchApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/CollectionApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/CollectionClassApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/CollectionDefaultMethodApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/DequeApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/EntryApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/EnumMapApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/EnumSetApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/HashMapApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/HashTableApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/IdentityHashMapApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/ImmutableApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/ImmutableMapApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/ImmutableSetApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/IterableApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/LinkedHashMapApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/ListApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/MapDefaultMethodApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/MutableApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/NavigableMapApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/NavigableSetApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/QueueApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/SetApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/SingleQueueApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/SortedMapApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/SortedSetApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/SpliteratorApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/StackApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/ToArrayApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/VectorApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/WeakHashMapApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/collection/SingleQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/PersonComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/kasus/DequeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/kasus/ListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/kasus/MapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/kasus/QueueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/kasus/SetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/kasus/FlightApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/kasus/ListDeleteDuplicatedData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/kasus/ListReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/kasus/ListWithLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/kasus/NavigableSetApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/kasus/SortedSetApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/kasus/StackApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/kasus/StoreManagementApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmer/zaman/now/DequeApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmer/zaman/now/DequeApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmer/zaman/now/HashMapApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmer/zaman/now/HashMapApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmer/zaman/now/IdentityHashMapApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmer/zaman/now/IdentityHashMapApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmer/zaman/now/IterableApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmer/zaman/now/IterableApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmer/zaman/now/ListApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmer/zaman/now/ListApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmer/zaman/now/MapDefaultMethodApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmer/zaman/now/MapDefaultMethodApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmer/zaman/now/NavigableMapApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmer/zaman/now/NavigableMapApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmer/zaman/now/NavigableSetApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmer/zaman/now/NavigableSetApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmer/zaman/now/kasus/MapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmer/zaman/now/kasus/MapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmer/zaman/now/kasus/QueueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmer/zaman/now/kasus/QueueExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmer/zaman/now/kasus/SetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmer/zaman/now/kasus/SetExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,9 +59,35 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.android.tools.idea.logcat.settings.LogcatApplicationSettingsConfigurableProvider&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MapExample">
-    <configuration name="DequeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.kasus.DequeExample" />
+  <component name="RunManager" selected="Application.ListReverse">
+    <configuration name="BinarySearchApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.BinarySearchApp" />
+      <module name="belajar-java-collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmer.zaman.now.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionClassApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.CollectionClassApp" />
+      <module name="belajar-java-collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmer.zaman.now.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListDeleteDuplicatedData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.kasus.ListDeleteDuplicatedData" />
       <module name="belajar-java-collection" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.kasus.ListExample" />
+    <configuration name="ListReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.kasus.ListReverse" />
       <module name="belajar-java-collection" />
       <extension name="coverage">
         <pattern>
@@ -112,34 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.kasus.MapExample" />
-      <module name="belajar-java-collection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmer.zaman.now.kasus.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.kasus.QueueExample" />
-      <module name="belajar-java-collection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmer.zaman.now.kasus.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.kasus.SetExample" />
+    <configuration name="StackApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.kasus.StackApp" />
       <module name="belajar-java-collection" />
       <extension name="coverage">
         <pattern>
@@ -153,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MapExample" />
-        <item itemvalue="Application.DequeExample" />
-        <item itemvalue="Application.QueueExample" />
-        <item itemvalue="Application.SetExample" />
-        <item itemvalue="Application.ListExample" />
+        <item itemvalue="Application.ListReverse" />
+        <item itemvalue="Application.ListDeleteDuplicatedData" />
+        <item itemvalue="Application.StackApp" />
+        <item itemvalue="Application.CollectionClassApp" />
+        <item itemvalue="Application.BinarySearchApp" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +151,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/programmer/zaman/now/IterableApp.java</url>
-          <line>3</line>
+          <line>4</line>
           <properties class="IterableApp">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -247,6 +221,24 @@
           </properties>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/programmer/zaman/now/kasus/SortedSetApp.java</url>
+          <line>7</line>
+          <properties class="programmer.zaman.now.kasus.SortedSetApp" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/programmer/zaman/now/HashMapApp.java</url>
+          <line>7</line>
+          <properties class="programmer.zaman.now.HashMapApp" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$USER_HOME$/Library/Java/JavaVirtualMachines/jdk-20.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Map.java</url>
           <line>160</line>
@@ -266,6 +258,11 @@
           <url>file://$PROJECT_DIR$/src/programmer/zaman/now/CollectionClassApp.java</url>
           <line>38</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programmer/zaman/now/kasus/StackApp.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

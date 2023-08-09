@@ -12,12 +12,15 @@ public class ListApp {
         names.add("Ahmad");
         names.add("Ihsanullah");
         names.add("Rabbani");
+        names.add("Rabbani");
+        names.add("Rabbani");
         names.set(2,"Rabbani");
         names.remove(1);
         names.remove("Rabbani");
         for(var value: names) {
             System.out.println(value);
         }
+        System.out.println(names.get(2));
 
     }
 }

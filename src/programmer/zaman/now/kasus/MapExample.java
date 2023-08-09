@@ -1,14 +1,11 @@
 package programmer.zaman.now.kasus;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Scanner;
-import java.util.StringTokenizer;
+import java.util.*;
 import java.util.function.BiConsumer;
 
 public class MapExample {
     public static void main(String[] args) {
-        Map<String, Integer> wordFrequencyMap = new HashMap<>();
+        Map<String, Integer> wordFrequencyMap = new LinkedHashMap<>();
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Masukkan kalimat:");

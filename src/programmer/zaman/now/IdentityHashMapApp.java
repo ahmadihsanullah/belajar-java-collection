@@ -19,7 +19,7 @@ public class IdentityHashMapApp {
         System.out.println(key1 == key2);
 
         map.put(key1,"Ahmad");
-        map.put(key2,"Ahmad");
+        map.put(key2,"Ahmad Ihsanullah");
 //      size akan terbaca 2, karena key dianggap berbeda karena beda lokasi
         System.out.println(map.size());
     }
