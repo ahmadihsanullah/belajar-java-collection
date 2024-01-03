@@ -14,8 +14,9 @@ public class ImmutableSetApp {
         mutable.add("ihsanullah");
 
         Set<String> immutable = Collections.unmodifiableSet(mutable);
+        immutable.add("air");
         Set<String> elements = Set.of("Ahmad", "ihsan");
         //elements.add("rabbani"); //error
-        //elements.remoce("ahmad"); //error
+        //elements.remove("ahmad"); //error
     }
 }

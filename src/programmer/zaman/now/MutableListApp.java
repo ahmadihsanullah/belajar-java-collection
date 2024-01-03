@@ -4,14 +4,15 @@ import programmer.zaman.now.data.Person;
 
 import java.util.List;
 
-public class MutableApp {
+public class MutableListApp {
     public static void main(String[] args) {
         Person person = new Person("Ahmad");
         person.addHobby("Read");
         person.addHobby("Coding");
         person.addHobby("Badminton");
+        person.getHobbies();
 
-//        doSomethingWithHobbies(person.getHobbies());
+    //    doSomethingWithHobbies(person.getHobbies());
         for(var value: person.getHobbies()){
             System.out.println(value);
         }

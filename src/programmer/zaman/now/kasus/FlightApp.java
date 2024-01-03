@@ -12,8 +12,8 @@ public class FlightApp {
 
         // Menambahkan jadwal penerbangan ke dalam NavigableMap
         flightSchedule.put(LocalTime.of(8, 30), "Penerbangan A");
-        flightSchedule.put(LocalTime.of(12, 45), "Penerbangan B");
-        flightSchedule.put(LocalTime.of(15, 0), "Penerbangan C");
+        flightSchedule.put(LocalTime.of(14, 45), "Penerbangan B");
+        flightSchedule.put(LocalTime.of(13, 0), "Penerbangan C");
 
         // Mencari penerbangan terdekat berdasarkan waktu keberangkatan 14:30
         Map.Entry<LocalTime, String> nearestFlightEntry = flightSchedule.floorEntry(LocalTime.of(14, 30));

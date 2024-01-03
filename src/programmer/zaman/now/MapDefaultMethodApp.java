@@ -13,13 +13,15 @@ public class MapDefaultMethodApp {
 
 
 
+
         //perulangan menggunak forEach bukan entrie untuk mendapatkan key dan valuenya
         map.forEach((key, value) -> System.out.println(key + " = " + value));
-
         map.replace("ruu", "bar", "bro");
         map.forEach((key, value) -> System.out.println(key + " = " + value));
 
         System.out.println(map.remove("ruu","bro"));
+        map.remove("bar");
+        System.out.println(map.containsKey("ruu"));
 
         map.forEach((key, value) -> System.out.println(key + " = " + value));
 

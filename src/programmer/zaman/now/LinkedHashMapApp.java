@@ -16,5 +16,9 @@ public class LinkedHashMapApp {
         for (String key : map.keySet()) {
             System.out.println(key);
         }
+        for(String value : map.values()){
+            System.out.println(value);
+        }
+        map.forEach((k, v) -> System.out.println(k + ": " + v));
     }
 }

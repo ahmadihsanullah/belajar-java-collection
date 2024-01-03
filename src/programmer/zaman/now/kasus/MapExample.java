@@ -17,13 +17,8 @@ public class MapExample {
         while(tokenizer.hasMoreTokens()){
             String token = tokenizer.nextToken();
             int frequency = wordFrequencyMap.getOrDefault(token, 0);
-            wordFrequencyMap.put(token, frequency+1);
+            wordFrequencyMap.put(token, frequency);
         }
-//        for (String word : words) {
-//            word = word.toLowerCase(); // Untuk mengabaikan perbedaan huruf besar dan kecil
-//            int frequency = wordFrequencyMap.getOrDefault(word, 0);
-//            wordFrequencyMap.put(word, frequency + 1);
-//        }
 
         System.out.println("Frekuensi kemunculan kata:");
 

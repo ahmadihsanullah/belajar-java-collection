@@ -20,7 +20,17 @@ public class ListApp {
         for(var value: names) {
             System.out.println(value);
         }
-        System.out.println(names.get(2));
+        names.add("Rabbani");
+        var getIndex = names.lastIndexOf("Rabbani");
+        System.out.println(getIndex);
 
+        List<Integer> lIntegers = new LinkedList<>();
+        lIntegers.add(1);
+        lIntegers.add(2);
+        lIntegers.add(3);
+        lIntegers.set(0, 0);
+        for(int number : lIntegers){
+            System.out.println(number);
+        }
     }
 }

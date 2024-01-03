@@ -9,6 +9,7 @@ public class NavigableSetApp {
         // Menambahkan posisi truck-truck ke dalam NavigableSet
         truckPositions.add(new Truck("Truck-1", 10));
         truckPositions.add(new Truck("Truck-2", 25));
+        truckPositions.add(new Truck("Truck-2", 15));
         truckPositions.add(new Truck("Truck-3", 5));
 
         // Mencari truck terdekat berdasarkan posisi 12
