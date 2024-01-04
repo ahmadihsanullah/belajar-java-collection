@@ -42,5 +42,11 @@ public class SortedSetApp {
             item -> System.out.println(item)
         );
 
+        SortedSet<Person> sortedSetUnModifiable = Collections.unmodifiableSortedSet(people);
+        sortedSetUnModifiable.add(new Person("rehan"));
+        names.subSet("davi", "rafi").forEach(
+            item -> System.out.println(item)
+        );
+
     }
 }
